@@ -1,0 +1,1 @@
+go install github.com/monkeyWie/gopeed/cmd/gopeed
